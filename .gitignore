@@ -109,3 +109,6 @@ venv.bak/
 # Music Data
 *.mp3
 *.wav
+
+# Processed Data
+raw/data
