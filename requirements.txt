@@ -1,7 +1,6 @@
 jupyterlab
 librosa
 numpy
-pyspark
 soundscrape
 pandas
 matplotlib
